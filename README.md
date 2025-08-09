@@ -69,6 +69,6 @@
  <br>
  
 
- <div align="center">
-  <img src="https://raw.githubusercontent.com/saysxnts/saysxnts/output/github-contribution-grid-snake.svg" alt="Snake animation" />
- </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saysxnts/saysxnts/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
+</div>
