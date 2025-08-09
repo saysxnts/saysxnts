@@ -52,8 +52,8 @@
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=github-dark&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=github-dark&area=true&order=5&custom_title=Minha%20Atividade&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 <br>
