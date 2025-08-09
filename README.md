@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <em>Desenvolvedor Back-End apaixonado por criar soluções robustas e eficientes.</em>
+  <em>Desenvolvedor apaixonado por criar soluções robustas e eficientes.</em>
 </p>
 
 <br>
@@ -24,7 +24,7 @@
 <h2 align="center">🚀 Sobre Mim</h2>
 
 <p align="center">
-  Sou um desenvolvedor com foco em tecnologias back-end, sempre em busca de aprender e aplicar as melhores práticas de desenvolvimento de software. Tenho experiência na construção de APIs RESTful, gerenciamento de bancos de dados e na criação de sistemas escaláveis. Meu objetivo é transformar ideias complexas em realidade através do código.
+  Sou um desenvolvedor que está sempre em busca de aprender e aplicar as melhores práticas de desenvolvimento de software. Tenho experiência na construção de APIs RESTful, gerenciamento de bancos de dados e na criação de sistemas escaláveis. Meu objetivo é transformar ideias complexas em realidade através do código.
 </p>
 
 <hr>
