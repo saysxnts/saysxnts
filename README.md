@@ -91,7 +91,7 @@ Sou um desenvolvedor focado em backend e arquitetura de sistemas. Minha jornada 
 
 <div align="center">
   <h3>Minha Atividade no GitHub</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=tokyonight&area=true&hide_border=true&cache_bust=1" width="100%" alt="Gráfico de Atividade" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=dark&area=true&hide_border=true&cache_bust=2" width="100%" alt="Gráfico de Atividade" />
 </div>
 
 <div align="center">
