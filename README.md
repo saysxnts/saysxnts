@@ -34,11 +34,11 @@ Sou um desenvolvedor focado em backend e arquitetura de sistemas. Minha jornada 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,html,css&perline=7" alt="Linguagens" />
+    <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,html,css&perline=7&theme=dark" alt="Linguagens" />
     <br>
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react&perline=6" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react&perline=6&theme=dark" alt="Frameworks" />
     <br>
-    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,bash,git&perline=6" alt="Ferramentas e Bancos de Dados" />
+    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,bash,git&perline=6&theme=dark" alt="Ferramentas e Bancos de Dados" />
   </a>
 </p>
     </td>
@@ -47,8 +47,8 @@ Sou um desenvolvedor focado em backend e arquitetura de sistemas. Minha jornada 
 ### **📊 Estatísticas do GitHub**
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saysxnts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas Gerais" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&locale=pt-br&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saysxnts&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas Gerais" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&locale=pt-br&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
     </td>
   </tr>
@@ -66,7 +66,7 @@ Sou um desenvolvedor focado em backend e arquitetura de sistemas. Minha jornada 
       <h3 align="center">Microsserviço de Autenticação</h3>
       <p align="center">
         <a href="https://github.com/saysxnts/auth-service" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&theme=tokyonight&hide_border=true" alt="Card do Projeto Auth Service" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&theme=github_dark&hide_border=true" alt="Card do Projeto Auth Service" />
         </a>
       </p>
       <p align="center">
@@ -77,7 +77,7 @@ Sou um desenvolvedor focado em backend e arquitetura de sistemas. Minha jornada 
       <h3 align="center">API de Blog com .NET</h3>
       <p align="center">
         <a href="https://github.com/saysxnts/BlogApi" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&theme=tokyonight&hide_border=true" alt="Card do Projeto Blog API" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&theme=github_dark&hide_border=true" alt="Card do Projeto Blog API" />
         </a>
       </p>
       <p align="center">
@@ -91,7 +91,7 @@ Sou um desenvolvedor focado em backend e arquitetura de sistemas. Minha jornada 
 
 <div align="center">
   <h3>Minha Atividade no GitHub</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=github_dark&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade" />
 </div>
 
 <div align="center">
