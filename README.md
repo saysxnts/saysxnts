@@ -60,6 +60,8 @@ Sou um desenvolvedor focado em backend e arquitetura de sistemas. Minha jornada 
 
 <h2 align="center">🏆 Meus Projetos em Destaque</h2>
 
+<br>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
