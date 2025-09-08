@@ -1,24 +1,22 @@
 <!-- ======== HEADER B&W / CHROME HEARTS VIBE ======== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=42&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=850&lines=Guilherme+de+Oliveira+Santos;aka+saysxnts;Backend+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&amp;size=42&amp;pause=1000&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Guilherme+de+Oliveira+Santos;aka+saysxnts;Backend+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=000000&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=2&amp;color=000000&amp;section=header" />
 </div>
+
+<p align="center"><em>Code with Elegance. Build with Power.</em></p>
 
 <p align="center">
-  <em style="font-size:14px">Code with Elegance. Build with Power.</em>
+  <a href="https://www.linkedin.com/in/guilhermedeoliveirasantos/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFFFFF&amp;labelColor=000000" />
+  </a>
+  <a href="mailto:guilherme_oliveirass@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=FFFFFF&amp;labelColor=000000" />
+  </a>
 </p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/guilhermedeoliveirasantos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" />
-  </a>
-  <a href="mailto:guilherme_oliveirass@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF&labelColor=000000" />
-  </a>
-</div>
 
 ---
 
@@ -30,14 +28,11 @@ Desenvolvedor backend focado em **APIs robustas**, **microsserviços** e **autom
 ## 🛠️ Habilidades
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Linguagens -->
-    <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,html,css&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,html,css&amp;perline=7&amp;theme=dark" />
     <br/>
-    <!-- Frameworks -->
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react&amp;perline=6&amp;theme=dark" />
     <br/>
-    <!-- Tools / DB -->
-    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,bash,git&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,bash,git&amp;perline=6&amp;theme=dark" />
   </a>
 </p>
 
@@ -45,8 +40,8 @@ Desenvolvedor backend focado em **APIs robustas**, **microsserviços** e **autom
 
 ## 🖤 Estatísticas
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saysxnts&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saysxnts&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=000000&amp;title_color=FFFFFF&amp;text_color=FFFFFF&amp;icon_color=FFFFFF" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=000000&amp;title_color=FFFFFF&amp;text_color=FFFFFF" alt="Top Langs"/>
 </div>
 
 ---
@@ -58,7 +53,7 @@ Desenvolvedor backend focado em **APIs robustas**, **microsserviços** e **autom
       <h3 align="center">🔒 Auth Service</h3>
       <p align="center">
         <a href="https://github.com/saysxnts/auth-service" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&amp;repo=auth-service&amp;hide_border=true&amp;bg_color=000000&amp;title_color=FFFFFF&amp;text_color=FFFFFF" />
         </a>
       </p>
       <p align="center"><i>API JWT com FastAPI + Docker + PostgreSQL.</i></p>
@@ -67,7 +62,7 @@ Desenvolvedor backend focado em **APIs robustas**, **microsserviços** e **autom
       <h3 align="center">📝 Blog API</h3>
       <p align="center">
         <a href="https://github.com/saysxnts/BlogApi" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&amp;repo=BlogApi&amp;hide_border=true&amp;bg_color=000000&amp;title_color=FFFFFF&amp;text_color=FFFFFF" />
         </a>
       </p>
       <p align="center"><i>.NET Core + EF Core + SQLite.</i></p>
@@ -79,13 +74,17 @@ Desenvolvedor backend focado em **APIs robustas**, **microsserviços** e **autom
 
 ## ⚡ Atividade
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Minha%20Atividade%20(B%26W)" height="300" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&amp;bg_color=000000&amp;color=FFFFFF&amp;line=FFFFFF&amp;point=FFFFFF&amp;area=true&amp;hide_border=true&amp;custom_title=Minha%20Atividade%20(B%26W)"
+    height="300"
+    alt="Minha Atividade"
+  />
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/saysxnts/saysxnts/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=000000&amp;section=footer&amp;fontColor=FFFFFF" />
 </div>
