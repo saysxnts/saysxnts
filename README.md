@@ -28,12 +28,18 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 ---
 
 ## 🛠️ Habilidades
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,html,css&perline=7&theme=dark" alt="Linguagens" style="max-width:100%;height:auto" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react&perline=6&theme=dark" alt="Frameworks" style="max-width:100%;height:auto" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,mongodb,bash,git,github&perline=6&theme=dark" alt="Ferramentas e Bancos de Dados" style="max-width:100%;height:auto" />
+
+### 🔤 Linguagens
+<img src="https://skillicons.dev/icons?i=java,cs,python,go,js,ts,html,css&perline=8&theme=dark" alt="Linguagens" />
+
+### ⚡ Frameworks & Bibliotecas
+<img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react,vite&perline=7&theme=dark" alt="Frameworks" />
+
+### 🗄️ Bancos de Dados & Ferramentas
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,docker,git,github,linux,aws&perline=9&theme=dark" alt="Ferramentas e Bancos de Dados" />
+
 </div>
 
 ---
