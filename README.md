@@ -55,20 +55,6 @@ Trabalho com **APIs RESTful**, **microsserviços**, **automação de processos**
   />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=saysxnts&theme=black-ice&hide_border=true&border_radius=6&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" style="max-width:100%;height:auto"/>
-</div>
-
----
-
-## 📊 Gráficos Extras
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saysxnts&theme=github_dark" alt="Resumo do Perfil" style="max-width:100%;height:auto"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saysxnts&theme=github_dark" alt="Repositórios por Linguagem" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saysxnts&theme=github_dark" alt="Commits por Linguagem" width="49%" />
-</div>
-
 ---
 
 ## 🏆 Projetos em Destaque
