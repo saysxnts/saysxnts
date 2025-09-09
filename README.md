@@ -50,22 +50,21 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/saysxnts/auth-service">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Auth Service"/>
+        <b>🔒 Auth Service</b>
       </a>
       <br/>
-      <b>Auth Service</b><br/>
       API de autenticação com JWT, conteinerizada em Docker (FastAPI + PostgreSQL).
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/saysxnts/BlogApi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Blog API"/>
+        <b>📝 Blog API</b>
       </a>
       <br/>
-      <b>Blog API</b><br/>
       API RESTful em C#/.NET Core com EF Core e SQLite.
     </td>
   </tr>
 </table>
+
 
 ---
 
