@@ -1,4 +1,3 @@
-<!-- ================== HEADER / INTRO (RESPONSIVO) ================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -13,10 +12,10 @@
 
 <div align="center" style="display:flex;gap:8px;flex-wrap:wrap;justify-content:center">
   <a href="https://www.linkedin.com/in/guilhermedeoliveirasantos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
   <a href="mailto:guilherme_oliveirass@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+    <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF" alt="Outlook" />
   </a>
 </div>
 
@@ -42,15 +41,14 @@ Sou um desenvolvedor focado em **backend** e **arquitetura de sistemas**, com bo
 
 ## 🖤 Estatísticas do GitHub
 <div align="center">
-  <!-- Lado a lado em desktops, empilha no mobile -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=saysxnts&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=saysxnts&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"
     alt="Estatísticas Gerais"
     width="49%"
     style="max-width:49%;min-width:280px;height:auto"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&locale=pt-br&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&locale=pt-br&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"
     alt="Linguagens Mais Usadas"
     width="49%"
     style="max-width:49%;min-width:280px;height:auto"
@@ -61,19 +59,17 @@ Sou um desenvolvedor focado em **backend** e **arquitetura de sistemas**, com bo
 
 ## 🏆 Projetos em Destaque
 <div align="center" style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center">
-  <!-- Card 1 -->
   <a href="https://github.com/saysxnts/auth-service" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&theme=github_dark&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"
       alt="Auth Service"
       width="49%"
       style="max-width:49%;min-width:280px;height:auto"
     />
   </a>
-  <!-- Card 2 -->
   <a href="https://github.com/saysxnts/BlogApi" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&theme=github_dark&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"
       alt="Blog API"
       width="49%"
       style="max-width:49%;min-width:280px;height:auto"
@@ -90,9 +86,8 @@ Sou um desenvolvedor focado em **backend** e **arquitetura de sistemas**, com bo
 
 ## 📊 Minha Atividade
 <div align="center">
-  <!-- Mantido como você usa; 100% responsivo -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=github-dark&area=true&order=5&custom_title=Minha%20Atividade&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=github-dark&area=true&order=5&custom_title=Minha%20Atividade&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF"
     alt="Activity Graph"
     style="max-width:100%;height:auto"
   />
@@ -105,13 +100,3 @@ Sou um desenvolvedor focado em **backend** e **arquitetura de sistemas**, com bo
     style="max-width:100%;height:auto"
   />
 </div>
-
----
-
-### ✅ Por que isso fica “extremamente responsivo”
-- **Sem tabelas** → nada quebra no mobile.
-- Imagens com `width="49%" + min-width` → lado a lado em telas grandes, **empilham** em telas pequenas.
-- Todas as imagens com `max-width:100%; height:auto` → **sem overflow**, mantendo proporção.
-- Blocos com `flex-wrap` (quando suportado) → mantém layout estável mesmo com zoom.
-
-<!-- Dica: se algum serviço (stats/graph) falhar, é externo. O layout continua estável. -->
