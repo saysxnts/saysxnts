@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Guilherme+de+Oliveira+Santos;aka+saysxnts;Backend+Engineer+%7C+Full+Stack+Dev"
+      src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&lines=Guilherme+de+Oliveira+Santos;aka+saysxnts;Backend+Engineer+%7C+Full+Stack+Dev"
       alt="Typing SVG"
       style="max-width:100%;height:auto"
     />
@@ -22,7 +22,24 @@
 ---
 
 ## ⚔️ Sobre Mim
-Sou um desenvolvedor focado em **backend** e **arquitetura de sistemas**, com boa experiência **full stack**. Entrego **APIs RESTful**, **microsserviços**, integrações com bancos de dados e **automação**, sempre com **boas práticas**, **performance** e **código limpo** para escalar com segurança.
+Sou um desenvolvedor focado em **backend** e **arquitetura de sistemas**, com experiência em **full stack**. Tenho paixão por criar soluções digitais que unem **performance**, **design limpo** e **escalabilidade**.  
+
+Trabalho com **APIs RESTful**, **microsserviços**, **automação de processos**, integrações com **bancos de dados relacionais e NoSQL**, além de desenvolver **interfaces modernas** para melhorar a experiência do usuário.  
+
+Meu objetivo é sempre entregar projetos que tenham **impacto real** e que reflitam qualidade, inovação e boas práticas de desenvolvimento.  
+
+---
+
+## 💼 Experiência
+- **Suporte Técnico – Wise System (SIGO Web)**  
+  Apoio a clientes em Saúde e Segurança do Trabalho, com ênfase em **integrações E-Social, PGR, PCMSO, LTCAT**, além de suporte remoto via **AnyDesk**. Documentação de casos, protocolos de atendimento e fluxos de processos.  
+
+- **Projetos Acadêmicos e Pessoais**  
+  - Plataforma de **Gestão de Projetos** (tipo Trello/Asana).  
+  - **E-commerce** com integração de pagamentos online.  
+  - **Plataforma de Cursos Online** estilo Udemy.  
+  - **Rede Social para Desenvolvedores** (tipo Dev.to).  
+  - **Dashboards de Análise de Dados** (Python + Power BI).  
 
 ---
 
@@ -33,9 +50,24 @@ Sou um desenvolvedor focado em **backend** e **arquitetura de sistemas**, com bo
     <br/>
     <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react&perline=6&theme=dark" alt="Frameworks" style="max-width:100%;height:auto" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,bash,git&perline=6&theme=dark" alt="Ferramentas e Bancos de Dados" style="max-width:100%;height:auto" />
+    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,mongodb,bash,git,github&perline=6&theme=dark" alt="Ferramentas e Bancos de Dados" style="max-width:100%;height:auto" />
   </a>
 </div>
+
+### Destaques
+- **Backend:** APIs, microsserviços, autenticação JWT, containers.  
+- **Frontend:** React, HTML5, CSS3 responsivo, interatividade com JavaScript.  
+- **Banco de Dados:** PostgreSQL, MySQL, SQLite, MongoDB.  
+- **Ferramentas:** Git/GitHub, Docker, Power BI, automações em Python.  
+
+---
+
+## 📜 Certificações
+- **Lógica de Programação** – Fundação Bradesco.  
+- **Java** – Alura.  
+- **Python para Data Science** – Alura.  
+- **Power BI** – Curso Completo.  
+- **Pacote Office Avançado** – Certificado Técnico.  
 
 ---
 
@@ -100,3 +132,10 @@ Sou um desenvolvedor focado em **backend** e **arquitetura de sistemas**, com bo
     style="max-width:100%;height:auto"
   />
 </div>
+
+---
+
+## 📫 Contato
+- 📧 Email: [guilherme_oliveirass@outlook.com](mailto:guilherme_oliveirass@outlook.com)  
+- 💼 LinkedIn: [linkedin.com/in/guilhermedeoliveirasantos](https://www.linkedin.com/in/guilhermedeoliveirasantos/)  
+- 💻 GitHub: [github.com/saysxnts](https://github.com/saysxnts)  
