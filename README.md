@@ -31,13 +31,13 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 
 <div align="center">
 
-### 🔤 Linguagens
+###Linguagens
 <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,ts,html,css&perline=8&theme=dark" alt="Linguagens" />
 
-### ⚡ Frameworks & Bibliotecas
+###Frameworks & Bibliotecas
 <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react,vite&perline=7&theme=dark" alt="Frameworks" />
 
-### 🗄️ Bancos de Dados & Ferramentas
+###Bancos de Dados & Ferramentas
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,docker,git,github,linux,aws&perline=9&theme=dark" alt="Ferramentas e Bancos de Dados" />
 
 </div>
