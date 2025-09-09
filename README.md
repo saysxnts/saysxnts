@@ -1,5 +1,6 @@
+<!-- ================== HEADER WAVE ================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=38&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=950&lines=Guilherme+de+Oliveira+Santos;aka+saysxnts;Backend+Engineer+%7C+Full+Stack+Dev" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&section=header&text=Guilherme%20de%20Oliveira%20Santos&fontSize=35&fontColor=FFFFFF&fontAlignY=35&desc=aka%20saysxnts%20%7C%20Backend%20Engineer%20%7C%20Full%20Stack%20Dev&descAlignY=55" alt="header"/>
 </div>
 
 <p align="center"><em>Construindo soluções robustas, performáticas e modernas com elegância.</em></p>
@@ -107,4 +108,9 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
   <a href="https://github.com/saysxnts">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
+</div>
+
+<!-- ================== FOOTER WAVE ================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer"/>
 </div>
