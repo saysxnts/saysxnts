@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&lines=Guilherme+de+Oliveira+Santos;aka+saysxnts;Backend+Engineer+%7C+Full+Stack+Dev"
-      alt="Typing SVG"
-      style="max-width:100%;height:auto"
+    src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&lines=Guilherme+de+Oliveira+Santos;aka+saysxnts;Backend+Engineer+%7C+Full+Stack+Dev"
+    alt="Typing SVG"
+    style="max-width:100%;height:auto"
     />
   </a>
 </div>
@@ -26,53 +26,17 @@ Sou um desenvolvedor focado em **backend** e **arquitetura de sistemas**, com ex
 
 Trabalho com **APIs RESTful**, **microsserviços**, **automação de processos**, integrações com **bancos de dados relacionais e NoSQL**, além de desenvolver **interfaces modernas** para melhorar a experiência do usuário.  
 
-Meu objetivo é sempre entregar projetos que tenham **impacto real** e que reflitam qualidade, inovação e boas práticas de desenvolvimento.  
-
----
-
-## 💼 Experiência
-- **Suporte Técnico – Wise System (SIGO Web)**  
-  Apoio a clientes em Saúde e Segurança do Trabalho, com ênfase em **integrações E-Social, PGR, PCMSO, LTCAT**, além de suporte remoto via **AnyDesk**. Documentação de casos, protocolos de atendimento e fluxos de processos.  
-
-- **Projetos Acadêmicos e Pessoais**  
-  - Plataforma de **Gestão de Projetos** (tipo Trello/Asana).  
-  - **E-commerce** com integração de pagamentos online.  
-  - **Plataforma de Cursos Online** estilo Udemy.  
-  - **Rede Social para Desenvolvedores** (tipo Dev.to).  
-  - **Dashboards de Análise de Dados** (Python + Power BI).  
-
 ---
 
 ## 🛠️ Habilidades e Tecnologias
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,html,css&perline=7&theme=dark" alt="Linguagens" style="max-width:100%;height:auto" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react&perline=6&theme=dark" alt="Frameworks" style="max-width:100%;height:auto" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,mongodb,bash,git,github&perline=6&theme=dark" alt="Ferramentas e Bancos de Dados" style="max-width:100%;height:auto" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,html,css&perline=7&theme=dark" alt="Linguagens" style="max-width:100%;height:auto" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react&perline=6&theme=dark" alt="Frameworks" style="max-width:100%;height:auto" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,mongodb,bash,git,github&perline=6&theme=dark" alt="Ferramentas e Bancos de Dados" style="max-width:100%;height:auto" />
 </div>
 
-### Destaques
-- **Backend:** APIs, microsserviços, autenticação JWT, containers.  
-- **Frontend:** React, HTML5, CSS3 responsivo, interatividade com JavaScript.  
-- **Banco de Dados:** PostgreSQL, MySQL, SQLite, MongoDB.  
-- **Ferramentas:** Git/GitHub, Docker, Power BI, automações em Python.  
-
----
-
-## 📜 Certificações
-- **Lógica de Programação** – Fundação Bradesco  
-- **Java** – Alura  
-- **Python para Data Science** – Alura  
-- **Power BI** – Curso Completo  
-- **Pacote Office Avançado** – Certificado Técnico  
-- **Gestão de Projetos** – Curso Online  
-- **Comunicação e Oratória** – Curso Profissionalizante  
-- **Excel Avançado com Macros** – Fundação Bradesco  
-- **Introdução à Cloud Computing** – AWS Training & Certification  
-- **Git & GitHub Essentials** – Alura  
 ---
 
 ## 🖤 Estatísticas do GitHub
@@ -89,6 +53,20 @@ Meu objetivo é sempre entregar projetos que tenham **impacto real** e que refli
     width="49%"
     style="max-width:49%;min-width:280px;height:auto"
   />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=saysxnts&theme=black-ice&hide_border=true&border_radius=6&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" style="max-width:100%;height:auto"/>
+</div>
+
+---
+
+## 📊 Gráficos Extras
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saysxnts&theme=github_dark" alt="Resumo do Perfil" style="max-width:100%;height:auto"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saysxnts&theme=github_dark" alt="Repositórios por Linguagem" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saysxnts&theme=github_dark" alt="Commits por Linguagem" width="49%" />
 </div>
 
 ---
@@ -117,6 +95,20 @@ Meu objetivo é sempre entregar projetos que tenham **impacto real** e que refli
   <i>Auth Service</i>: API de autenticação (JWT) com FastAPI + Docker + PostgreSQL. <br/>
   <i>Blog API</i>: API RESTful em C#/.NET Core + EF Core + SQLite.
 </p>
+
+---
+
+## 📜 Certificações
+- **Lógica de Programação** – Fundação Bradesco  
+- **Java** – Alura  
+- **Python para Data Science** – Alura  
+- **Power BI** – Curso Completo  
+- **Pacote Office Avançado** – Certificado Técnico  
+- **Gestão de Projetos** – Curso Online  
+- **Comunicação e Oratória** – Curso Profissionalizante  
+- **Excel Avançado com Macros** – Fundação Bradesco  
+- **Introdução à Cloud Computing** – AWS Training & Certification  
+- **Git & GitHub Essentials** – Alura  
 
 ---
 
