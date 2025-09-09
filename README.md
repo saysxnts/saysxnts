@@ -44,27 +44,38 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 
 ---
 
+<!-- START: PROJETOS EM DESTAQUE (HTML PURO, SEM BORDAS) -->
 ## +++ Projetos em Destaque
 
 <table>
   <tr>
     <td align="center" width="50%">
+      <h3>🔒 Auth Service</h3>
+      <p>API de autenticação com JWT, conteinerizada em Docker (FastAPI + PostgreSQL).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+      </p>
       <a href="https://github.com/saysxnts/auth-service">
-        <b>🔒 Auth Service</b>
+        <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <br/>
-      API de autenticação com JWT, conteinerizada em Docker (FastAPI + PostgreSQL).
     </td>
     <td align="center" width="50%">
+      <h3>📝 Blog API</h3>
+      <p>API RESTful em C#/.NET Core com EF Core e SQLite.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+      </p>
       <a href="https://github.com/saysxnts/BlogApi">
-        <b>📝 Blog API</b>
+        <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <br/>
-      API RESTful em C#/.NET Core com EF Core e SQLite.
     </td>
   </tr>
 </table>
-
 
 ---
 
