@@ -5,18 +5,6 @@
 
 <p align="center"><em>Construindo soluções robustas, performáticas e modernas com elegância.</em></p>
 
-<div align="center" style="display:flex;gap:8px;flex-wrap:wrap;justify-content:center">
-  <a href="https://www.linkedin.com/in/guilhermedeoliveirasantos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
-  </a>
-  <a href="mailto:guilherme_oliveirass@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF" alt="Outlook" />
-  </a>
-  <a href="https://github.com/saysxnts" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  </a>
-</div>
-
 ---
 
 ## +++ Sobre Mim
