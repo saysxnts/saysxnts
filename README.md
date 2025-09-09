@@ -43,6 +43,10 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="49%" alt="Linguagens Mais Usadas"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=saysxnts&theme=black-ice&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" style="max-width:100%;height:auto"/>
+</div>
+
 ---
 
 ## 🏆 Projetos em Destaque
