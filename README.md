@@ -1,6 +1,6 @@
 <!-- ================== HEADER WAVE ================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&section=header&text=Guilherme%20de%20Oliveira%20Santos&fontSize=35&fontColor=FFFFFF&fontAlignY=35&desc=aka%20saysxnts%20%7C%20Backend%20Engineer%20%7C%20Full%20Stack%20Dev&descAlignY=55" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&section=header&text=Guilherme%20de%20Oliveira%20Santos&fontSize=35&fontColor=FFFFFF&fontAlignY=35&desc=%20saysxnts%20%7C%20Backend%20Engineer%20%7C%20Full%20Stack%20Dev&descAlignY=55" alt="header"/>
 </div>
 
 <p align="center"><em>Construindo soluções robustas, performáticas e modernas com elegância.</em></p>
