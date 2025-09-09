@@ -19,7 +19,7 @@
 
 ---
 
-## ⚔️ Sobre Mim
+## Sobre Mim
 Sou desenvolvedor em ascensão, cursando **Ciência da Computação** e apaixonado por **backend**, **arquitetura de sistemas** e **soluções escaláveis**.  
 Tenho experiência em **suporte técnico (Wise System)** e projetos próprios de **APIs, microsserviços e plataformas web**.  
 
@@ -27,7 +27,7 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 
 ---
 
-## 🛠️ Habilidades
+## Habilidades
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 
 ---
 
-## 🖤 Estatísticas
+## +++ Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saysxnts&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="49%" alt="Estatísticas Gerais"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="49%" alt="Linguagens Mais Usadas"/>
@@ -56,7 +56,7 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 
 ---
 
-## 🏆 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
@@ -66,7 +66,7 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="100%" alt="Auth Service"/>
     </a>
     <p align="center" style="color:white; margin-top:10px;">
-      🔒 <strong>Auth Service</strong><br>
+      <strong>Auth Service</strong><br>
       API de autenticação com JWT, conteinerizada em Docker (FastAPI + PostgreSQL).
     </p>
   </div>
@@ -77,7 +77,7 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="100%" alt="Blog API"/>
     </a>
     <p align="center" style="color:white; margin-top:10px;">
-      📝 <strong>Blog API</strong><br>
+      <strong>Blog API</strong><br>
       API RESTful em C#/.NET Core com EF Core e SQLite.
     </p>
   </div>
@@ -86,7 +86,7 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 
 ---
 
-## 📜 Certificações
+## Certificações
 - **Lógica de Programação** – Fundação Bradesco  
 - **Java** – Alura  
 - **Python para Data Science** – Alura  
@@ -100,7 +100,7 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 
 ---
 
-## 📊 Minha Atividade
+## Minha Atividade
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=github-dark&area=true&order=5&custom_title=Minha%20Atividade&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" height="300" alt="Activity Graph"/>
 </div>
@@ -113,7 +113,7 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 
 ---
 
-## 📫 Contato
+## Contato
 <div align="center">
   <a href="mailto:guilherme_oliveirass@outlook.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
