@@ -1,14 +1,8 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-    src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&lines=Guilherme+de+Oliveira+Santos;aka+saysxnts;Backend+Engineer+%7C+Full+Stack+Dev"
-    alt="Typing SVG"
-    style="max-width:100%;height:auto"
-    />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=38&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=950&lines=Guilherme+de+Oliveira+Santos;aka+saysxnts;Backend+Engineer+%7C+Full+Stack+Dev" alt="Typing SVG" />
 </div>
 
-<p align="center"><em>Transformando ideias em código sólido, com uma estética clean e poderosa.</em></p>
+<p align="center"><em>Construindo soluções robustas, performáticas e modernas com elegância.</em></p>
 
 <div align="center" style="display:flex;gap:8px;flex-wrap:wrap;justify-content:center">
   <a href="https://www.linkedin.com/in/guilhermedeoliveirasantos/" target="_blank">
@@ -17,18 +11,22 @@
   <a href="mailto:guilherme_oliveirass@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF" alt="Outlook" />
   </a>
+  <a href="https://github.com/saysxnts" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
 ## ⚔️ Sobre Mim
-Sou um desenvolvedor focado em **backend** e **arquitetura de sistemas**, com experiência em **full stack**. Tenho paixão por criar soluções digitais que unem **performance**, **design limpo** e **escalabilidade**.  
+Sou desenvolvedor em ascensão, cursando **Ciência da Computação** e apaixonado por **backend**, **arquitetura de sistemas** e **soluções escaláveis**.  
+Tenho experiência em **suporte técnico (Wise System)** e projetos próprios de **APIs, microsserviços e plataformas web**.  
 
-Trabalho com **APIs RESTful**, **microsserviços**, **automação de processos**, integrações com **bancos de dados relacionais e NoSQL**, além de desenvolver **interfaces modernas** para melhorar a experiência do usuário.  
+Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, para entregar soluções que façam diferença.
 
 ---
 
-## 🛠️ Habilidades e Tecnologias
+## 🛠️ Habilidades
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,html,css&perline=7&theme=dark" alt="Linguagens" style="max-width:100%;height:auto" />
   <br/>
@@ -39,47 +37,30 @@ Trabalho com **APIs RESTful**, **microsserviços**, **automação de processos**
 
 ---
 
-## 🖤 Estatísticas do GitHub
+## 🖤 Estatísticas
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saysxnts&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"
-    alt="Estatísticas Gerais"
-    width="49%"
-    style="max-width:49%;min-width:280px;height:auto"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&locale=pt-br&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"
-    alt="Linguagens Mais Usadas"
-    width="49%"
-    style="max-width:49%;min-width:280px;height:auto"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=saysxnts&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="49%" alt="Estatísticas Gerais"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="49%" alt="Linguagens Mais Usadas"/>
 </div>
 
 ---
 
 ## 🏆 Projetos em Destaque
-<div align="center" style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center">
-  <a href="https://github.com/saysxnts/auth-service" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"
-      alt="Auth Service"
-      width="49%"
-      style="max-width:49%;min-width:280px;height:auto"
-    />
-  </a>
-  <a href="https://github.com/saysxnts/BlogApi" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"
-      alt="Blog API"
-      width="49%"
-      style="max-width:49%;min-width:280px;height:auto"
-    />
-  </a>
+<div align="center">
+
+<a href="https://github.com/saysxnts/auth-service">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="49%" alt="Auth Service"/>
+</a>
+
+<a href="https://github.com/saysxnts/BlogApi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="49%" alt="Blog API"/>
+</a>
+
 </div>
 
 <p align="center" style="margin-top:6px">
-  <i>Auth Service</i>: API de autenticação (JWT) com FastAPI + Docker + PostgreSQL. <br/>
-  <i>Blog API</i>: API RESTful em C#/.NET Core + EF Core + SQLite.
+  <i>Auth Service</i>: API de autenticação com JWT, conteinerizada em Docker (FastAPI + PostgreSQL).<br/>
+  <i>Blog API</i>: API RESTful em C#/.NET Core com EF Core e SQLite.
 </p>
 
 ---
@@ -100,24 +81,26 @@ Trabalho com **APIs RESTful**, **microsserviços**, **automação de processos**
 
 ## 📊 Minha Atividade
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=github-dark&area=true&order=5&custom_title=Minha%20Atividade&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF"
-    alt="Activity Graph"
-    style="max-width:100%;height:auto"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=github-dark&area=true&order=5&custom_title=Minha%20Atividade&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" height="300" alt="Activity Graph"/>
 </div>
 
+---
+
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/saysxnts/saysxnts/output/github-contribution-grid-snake-dark.svg?palette=github-dark"
-    alt="Snake Contributions"
-    style="max-width:100%;height:auto"
-  />
+  <img src="https://raw.githubusercontent.com/saysxnts/saysxnts/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Contributions"/>
 </div>
 
 ---
 
 ## 📫 Contato
-- 📧 Email: [guilherme_oliveirass@outlook.com](mailto:guilherme_oliveirass@outlook.com)  
-- 💼 LinkedIn: [linkedin.com/in/guilhermedeoliveirasantos](https://www.linkedin.com/in/guilhermedeoliveirasantos/)  
-- 💻 GitHub: [github.com/saysxnts](https://github.com/saysxnts)  
+<div align="center">
+  <a href="mailto:guilherme_oliveirass@outlook.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/guilhermedeoliveirasantos/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+  </a>
+  <a href="https://github.com/saysxnts">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</div>
