@@ -51,22 +51,32 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 ---
 
 ## 🏆 Projetos em Destaque
-<div align="center">
 
-<a href="https://github.com/saysxnts/auth-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="49%" alt="Auth Service"/>
-</a>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<a href="https://github.com/saysxnts/BlogApi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="49%" alt="Blog API"/>
-</a>
+  <!-- Card 1 -->
+  <div align="center" style="width: 45%; min-width: 300px; background-color: #000000; border-radius: 10px; padding: 20px; border: 1px solid #333;">
+    <a href="https://github.com/saysxnts/auth-service">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="100%" alt="Auth Service"/>
+    </a>
+    <p align="center" style="color:white; margin-top:10px;">
+      🔒 <strong>Auth Service</strong><br>
+      API de autenticação com JWT, conteinerizada em Docker (FastAPI + PostgreSQL).
+    </p>
+  </div>
+
+  <!-- Card 2 -->
+  <div align="center" style="width: 45%; min-width: 300px; background-color: #000000; border-radius: 10px; padding: 20px; border: 1px solid #333;">
+    <a href="https://github.com/saysxnts/BlogApi">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="100%" alt="Blog API"/>
+    </a>
+    <p align="center" style="color:white; margin-top:10px;">
+      📝 <strong>Blog API</strong><br>
+      API RESTful em C#/.NET Core com EF Core e SQLite.
+    </p>
+  </div>
 
 </div>
-
-<p align="center" style="margin-top:6px">
-  <i>Auth Service</i>: API de autenticação com JWT, conteinerizada em Docker (FastAPI + PostgreSQL).<br/>
-  <i>Blog API</i>: API RESTful em C#/.NET Core com EF Core e SQLite.
-</p>
 
 ---
 
