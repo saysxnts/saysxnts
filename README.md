@@ -63,12 +63,16 @@ Meu objetivo é sempre entregar projetos que tenham **impacto real** e que refli
 ---
 
 ## 📜 Certificações
-- **Lógica de Programação** – Fundação Bradesco.  
-- **Java** – Alura.  
-- **Python para Data Science** – Alura.  
-- **Power BI** – Curso Completo.  
-- **Pacote Office Avançado** – Certificado Técnico.  
-
+- **Lógica de Programação** – Fundação Bradesco  
+- **Java** – Alura  
+- **Python para Data Science** – Alura  
+- **Power BI** – Curso Completo  
+- **Pacote Office Avançado** – Certificado Técnico  
+- **Gestão de Projetos** – Curso Online  
+- **Comunicação e Oratória** – Curso Profissionalizante  
+- **Excel Avançado com Macros** – Fundação Bradesco  
+- **Introdução à Cloud Computing** – AWS Training & Certification  
+- **Git & GitHub Essentials** – Alura  
 ---
 
 ## 🖤 Estatísticas do GitHub
