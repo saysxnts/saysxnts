@@ -1,102 +1,117 @@
+<!-- ================== HEADER / INTRO (RESPONSIVO) ================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=650&lines=Guilherme+de+Oliveira+Santos;aka+saysxnts;Backend+Engineer+%7C+Full+Stack+Dev" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Guilherme+de+Oliveira+Santos;aka+saysxnts;Backend+Engineer+%7C+Full+Stack+Dev"
+      alt="Typing SVG"
+      style="max-width:100%;height:auto"
+    />
   </a>
 </div>
 
-<p align="center">
-  <em>Transformando ideias em código sólido, com uma estética clean e poderosa.</em>
-</p>
+<p align="center"><em>Transformando ideias em código sólido, com uma estética clean e poderosa.</em></p>
 
-<div align="center">
+<div align="center" style="display:flex;gap:8px;flex-wrap:wrap;justify-content:center">
   <a href="https://www.linkedin.com/in/guilhermedeoliveirasantos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:guilherme_oliveirass@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF" alt="Outlook"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
 </div>
 
-<br>
+---
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+## ⚔️ Sobre Mim
+Sou um desenvolvedor focado em **backend** e **arquitetura de sistemas**, com boa experiência **full stack**. Entrego **APIs RESTful**, **microsserviços**, integrações com bancos de dados e **automação**, sempre com **boas práticas**, **performance** e **código limpo** para escalar com segurança.
 
-### **⚔️ Sobre Mim**
-<p align="justify">
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho foco em **backend** e **arquitetura de sistemas**, mas também experiência no **desenvolvimento full stack**. Minha trajetória é marcada por transformar problemas complexos em soluções escaláveis, utilizando boas práticas de código e ferramentas modernas.  
-<br><br>
-Já trabalhei em projetos de **APIs RESTful**, **microsserviços**, integrações com bancos de dados e automação de processos. Meu objetivo é unir **performance**, **design limpo** e **eficiência**, sempre com a visão de criar produtos que impactem de verdade.
-</p>
+---
 
-<br>
-
-### **🛠️ Habilidades e Tecnologias**
-
-<p align="center">
+## 🛠️ Habilidades e Tecnologias
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,html,css&perline=7&theme=dark" alt="Linguagens" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react&perline=6&theme=dark" alt="Frameworks" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,bash,git&perline=6&theme=dark" alt="Ferramentas e Bancos de Dados" />
+    <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,html,css&perline=7&theme=dark" alt="Linguagens" style="max-width:100%;height:auto" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react&perline=6&theme=dark" alt="Frameworks" style="max-width:100%;height:auto" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,bash,git&perline=6&theme=dark" alt="Ferramentas e Bancos de Dados" style="max-width:100%;height:auto" />
   </a>
+</div>
+
+---
+
+## 🖤 Estatísticas do GitHub
+<div align="center">
+  <!-- Lado a lado em desktops, empilha no mobile -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=saysxnts&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"
+    alt="Estatísticas Gerais"
+    width="49%"
+    style="max-width:49%;min-width:280px;height:auto"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&locale=pt-br&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    alt="Linguagens Mais Usadas"
+    width="49%"
+    style="max-width:49%;min-width:280px;height:auto"
+  />
+</div>
+
+---
+
+## 🏆 Projetos em Destaque
+<div align="center" style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center">
+  <!-- Card 1 -->
+  <a href="https://github.com/saysxnts/auth-service" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&theme=github_dark&hide_border=true"
+      alt="Auth Service"
+      width="49%"
+      style="max-width:49%;min-width:280px;height:auto"
+    />
+  </a>
+  <!-- Card 2 -->
+  <a href="https://github.com/saysxnts/BlogApi" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&theme=github_dark&hide_border=true"
+      alt="Blog API"
+      width="49%"
+      style="max-width:49%;min-width:280px;height:auto"
+    />
+  </a>
+</div>
+
+<p align="center" style="margin-top:6px">
+  <i>Auth Service</i>: API de autenticação (JWT) com FastAPI + Docker + PostgreSQL. <br/>
+  <i>Blog API</i>: API RESTful em C#/.NET Core + EF Core + SQLite.
 </p>
-    </td>
-    <td valign="top" width="40%">
-
-### **🖤 Estatísticas do GitHub**
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saysxnts&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="Estatísticas Gerais" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=saysxnts&locale=pt-br&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Linguagens Mais Usadas" />
-</div>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 ---
 
-<h2 align="center">🏆 Meus Projetos em Destaque</h2>
+## 📊 Minha Atividade
+<div align="center">
+  <!-- Mantido como você usa; 100% responsivo -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=github-dark&area=true&order=5&custom_title=Minha%20Atividade&hide_border=true"
+    alt="Activity Graph"
+    style="max-width:100%;height:auto"
+  />
+</div>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔒 Microsserviço de Autenticação</h3>
-      <p align="center">
-        <a href="https://github.com/saysxnts/auth-service" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=auth-service&theme=github_dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Card do Projeto Auth Service" />
-        </a>
-      </p>
-      <p align="center">
-        <i>API de autenticação com JWT, totalmente conteinerizada com Docker e Docker Compose, usando Python, FastAPI e PostgreSQL.</i>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 API de Blog com .NET</h3>
-      <p align="center">
-        <a href="https://github.com/saysxnts/BlogApi" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saysxnts&repo=BlogApi&theme=github_dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Card do Projeto Blog API" />
-        </a>
-      </p>
-      <p align="center">
-        <i>API RESTful para um blog construída com C# e ASP.NET Core, utilizando Entity Framework Core e Migrations para persistência de dados em SQLite.</i>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/saysxnts/saysxnts/output/github-contribution-grid-snake-dark.svg?palette=github-dark"
+    alt="Snake Contributions"
+    style="max-width:100%;height:auto"
+  />
+</div>
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+### ✅ Por que isso fica “extremamente responsivo”
+- **Sem tabelas** → nada quebra no mobile.
+- Imagens com `width="49%" + min-width` → lado a lado em telas grandes, **empilham** em telas pequenas.
+- Todas as imagens com `max-width:100%; height:auto` → **sem overflow**, mantendo proporção.
+- Blocos com `flex-wrap` (quando suportado) → mantém layout estável mesmo com zoom.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saysxnts&radius=16&theme=github-dark&area=true&order=5&custom_title=Minha%20Atividade&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saysxnts/saysxnts/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Animação da Cobrinha de Contribuições" />
-</div>
+<!-- Dica: se algum serviço (stats/graph) falhar, é externo. O layout continua estável. -->
