@@ -1,4 +1,4 @@
-<!-- ================== HEADER WAVE ================== -->
+<!-- ================== HEARTS ================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&section=header&text=Guilherme%20de%20Oliveira%20Santos&fontSize=35&fontColor=FFFFFF&fontAlignY=35&desc=%20saysxnts%20%7C%20Backend%20Engineer%20%7C%20Full%20Stack%20Dev&descAlignY=55" alt="header"/>
 </div>
@@ -14,8 +14,6 @@ Tenho experiência em **suporte técnico (Wise System)** e projetos próprios de
 Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, para entregar soluções que façam diferença.
 
 ---
-
-## +++ Habilidades
 
 <div align="center">
 
@@ -44,8 +42,7 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 
 ---
 
-<!-- START: PROJETOS EM DESTAQUE (HTML PURO, SEM BORDAS) -->
-## +++ Projetos em Destaque
+<p align="center"><strong>+++ Projetos em Destaque +++</strong></p>
 
 <table>
   <tr>
