@@ -77,6 +77,7 @@ Busco sempre unir **código limpo**, **boas práticas** e **design moderno**, pa
 ---
 
 ## +++ Certificações
+- **AWS Academy Graduate - Cloud Foundations - Training Badge
 - **Lógica de Programação** – Fundação Bradesco  
 - **Java** – Alura  
 - **Python para Data Science** – Alura  
