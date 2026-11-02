@@ -50,20 +50,20 @@ A base veio da **ETEC**, programando jogos digitais — onde a lógica virou pai
     <td align="center" width="120"><b>out 2025</b><br/><sub>atual</sub></td>
     <td><b>† Desenvolvedor de Soluções</b> &nbsp;·&nbsp; <code>Bradesco</code><br/>
       <sub>Estágio · Barueri, SP · Híbrido — Patrimônio</sub><br/>
-      Manutenção e monitoramento de sistemas internos, integrações e automação de processos,<br/>
+      Manutenção e monitoramento de sistemas internos, integrações e automação de processos,
       análise de dados para otimização de fluxos e eficiência operacional.</td>
   </tr>
   <tr>
     <td align="center"><b>set 2025</b><br/><sub>out 2025</sub></td>
     <td><b>† Desenvolvedor Web</b> &nbsp;·&nbsp; <code>Wise System</code><br/>
       <sub>C# · ASP.NET · Python · APIs REST</sub><br/>
-      Sustentação e evolução da plataforma SIGO: diagnóstico e correção de falhas no código-fonte,<br/>
+      Sustentação e evolução da plataforma SIGO: diagnóstico e correção de falhas no código-fonte,
       logs estruturados, automação de testes e triagem em Python, docs de APIs e dashboards.</td>
   </tr>
   <tr>
     <td align="center"><b>mai 2025</b><br/><sub>set 2025</sub></td>
     <td><b>† Suporte Técnico</b> &nbsp;·&nbsp; <code>Wise System</code><br/>
-      Suporte a clientes do SIGO (eSocial, GRO, PGR, PCMSO, LTCAT), instalação, configuração,<br/>
+      Suporte a clientes do SIGO (eSocial, GRO, PGR, PCMSO, LTCAT), instalação, configuração,
       integrações e migração de sistemas.</td>
   </tr>
   <tr>
