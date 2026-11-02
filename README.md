@@ -1,4 +1,4 @@
-<!-- ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝   s a y s x n t s   ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ -->
+<!-- † † † † † † † † † † †   s a y s x n t s   † † † † † † † † † † † -->
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<em>✝ Construindo soluções robustas, performáticas e modernas — com elegância ✝</em>
+<em>† Construindo soluções robustas, performáticas e modernas — com elegância †</em>
 
 </div>
 
@@ -31,7 +31,7 @@ Desenvolvedor em ascensão, cursando **Ciência da Computação** e apaixonado p
 **arquitetura de sistemas** e **soluções escaláveis**. Experiência em **suporte técnico (Wise System)**<br/>
 e em projetos próprios de **APIs, microsserviços e plataformas web**.
 
-<sub>✝ &nbsp; código limpo &nbsp; ✝ &nbsp; boas práticas &nbsp; ✝ &nbsp; design moderno &nbsp; ✝</sub>
+<sub>† &nbsp; código limpo &nbsp; † &nbsp; boas práticas &nbsp; † &nbsp; design moderno &nbsp; †</sub>
 
 </div>
 
@@ -41,17 +41,17 @@ e em projetos próprios de **APIs, microsserviços e plataformas web**.
 
 <div align="center">
 
-<sub><code>✝ LINGUAGENS ✝</code></sub><br/><br/>
+<sub><code>† LINGUAGENS †</code></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=java,cs,python,go,js,ts,html,css&perline=8&theme=dark" alt="Linguagens" />
 
 <br/><br/>
 
-<sub><code>✝ FRAMEWORKS ✝</code></sub><br/><br/>
+<sub><code>† FRAMEWORKS †</code></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask,nodejs,react,vite&perline=7&theme=dark" alt="Frameworks" />
 
 <br/><br/>
 
-<sub><code>✝ DADOS & INFRA ✝</code></sub><br/><br/>
+<sub><code>† DADOS & INFRA †</code></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,docker,git,github,linux,aws&perline=9&theme=dark" alt="Bancos de Dados e Ferramentas" />
 
 </div>
@@ -63,7 +63,7 @@ e em projetos próprios de **APIs, microsserviços e plataformas web**.
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>✝ Auth Service</h3>
+      <h3>† Auth Service</h3>
       <p>API de autenticação com JWT, conteinerizada em Docker (FastAPI + PostgreSQL).</p>
       <p>
         <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
@@ -74,7 +74,7 @@ e em projetos próprios de **APIs, microsserviços e plataformas web**.
       <a href="https://github.com/saysxnts/auth-service"><img src="https://img.shields.io/badge/%E2%9C%9D%20Ver%20Reposit%C3%B3rio-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
     </td>
     <td align="center" width="50%">
-      <h3>✝ Blog API</h3>
+      <h3>† Blog API</h3>
       <p>API RESTful em C#/.NET Core com EF Core, SQLite e Swagger.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white" />
@@ -86,7 +86,7 @@ e em projetos próprios de **APIs, microsserviços e plataformas web**.
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>✝ Encurtador de Links</h3>
+      <h3>† Encurtador de Links</h3>
       <p>API REST em TypeScript e Fastify para encurtar links, com expiração e estatísticas.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
@@ -95,7 +95,7 @@ e em projetos próprios de **APIs, microsserviços e plataformas web**.
       <a href="https://github.com/saysxnts/encurtador-links-api"><img src="https://img.shields.io/badge/%E2%9C%9D%20Ver%20Reposit%C3%B3rio-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
     </td>
     <td align="center" width="50%">
-      <h3>✝ Fórum Design Patterns</h3>
+      <h3>† Fórum Design Patterns</h3>
       <p>Fórum de discussão com nove padrões de projeto GoF: servidor Flask + cliente Qt.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
@@ -131,11 +131,11 @@ e em projetos próprios de **APIs, microsserviços e plataformas web**.
 <div align="center">
 
 <table>
-  <tr><td>✝</td><td><b>AWS Academy Graduate</b> — Cloud Foundations · Training Badge</td></tr>
-  <tr><td>✝</td><td><b>Introdução à Cloud Computing</b> — AWS Training & Certification</td></tr>
-  <tr><td>✝</td><td><b>Java</b> · <b>Python para Data Science</b> · <b>Git & GitHub Essentials</b> — Alura</td></tr>
-  <tr><td>✝</td><td><b>Lógica de Programação</b> · <b>Excel Avançado com Macros</b> — Fundação Bradesco</td></tr>
-  <tr><td>✝</td><td><b>Power BI</b> · <b>Pacote Office Avançado</b> · <b>Gestão de Projetos</b> · <b>Comunicação e Oratória</b></td></tr>
+  <tr><td>†</td><td><b>AWS Academy Graduate</b> — Cloud Foundations · Training Badge</td></tr>
+  <tr><td>†</td><td><b>Introdução à Cloud Computing</b> — AWS Training & Certification</td></tr>
+  <tr><td>†</td><td><b>Java</b> · <b>Python para Data Science</b> · <b>Git & GitHub Essentials</b> — Alura</td></tr>
+  <tr><td>†</td><td><b>Lógica de Programação</b> · <b>Excel Avançado com Macros</b> — Fundação Bradesco</td></tr>
+  <tr><td>†</td><td><b>Power BI</b> · <b>Pacote Office Avançado</b> · <b>Gestão de Projetos</b> · <b>Comunicação e Oratória</b></td></tr>
 </table>
 
 </div>
