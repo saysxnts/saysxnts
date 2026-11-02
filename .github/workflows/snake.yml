@@ -1,36 +1,28 @@
-# Nome da GitHub Action
 name: Generate Snake Animation
 
-# Define quando a Action deve rodar
 on:
-  # Roda automaticamente a cada 12 horas
   schedule:
-    - cron: '0 */12 * * *'
-  # Permite que você rode a Action manualmente na aba "Actions" do GitHub
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
-# Define o trabalho (job) a ser feito
+permissions:
+  contents: write
+
 jobs:
   build:
-    runs-on: ubuntu-latest # Roda em um ambiente Linux
-
+    runs-on: ubuntu-latest
     steps:
-      # Passo 1: Clona o seu repositório para o ambiente da Action
-      - uses: actions/checkout@v3
-
-      # Passo 2: Gera o arquivo SVG da animação
       - uses: Platane/snk@v3
         with:
-          # Seu nome de usuário do GitHub
           github_user_name: ${{ github.repository_owner }}
-
-          # Arquivos de saída, incluindo a versão com o tema escuro
+          # paleta monocromática cromada (preto → prata → branco)
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#0d0d0d,#2e2e2e,#5c5c5c,#a8a8a8,#ffffff
 
-      # Passo 3: Envia os arquivos gerados para uma branch chamada "output"
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
