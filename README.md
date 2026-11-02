@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="saysxnts — Guilherme de Oliveira Santos · Backend Engineer · Full Stack Developer" />
+<img src="./assets/hero.svg" width="100%" alt="saysxnts — Guilherme de Oliveira Santos · Software Engineer @ Bradesco · Full Stack" />
 
 <br/>
 
@@ -27,11 +27,54 @@
 
 <div align="center">
 
-Desenvolvedor em ascensão, cursando **Ciência da Computação** e apaixonado por **backend**,<br/>
-**arquitetura de sistemas** e **soluções escaláveis**. Experiência em **suporte técnico (Wise System)**<br/>
-e em projetos próprios de **APIs, microsserviços e plataformas web**.
+**Software Engineer no Bradesco** e estudante de **Ciência da Computação na Impacta**.<br/>
+No dia a dia, mantenho e monitoro **sistemas internos**, construo **integrações e automações**<br/>
+e uso **dados** para deixar fluxos operacionais mais rápidos e eficientes.
 
-<sub>† &nbsp; código limpo &nbsp; † &nbsp; boas práticas &nbsp; † &nbsp; design moderno &nbsp; †</sub>
+Antes disso, na **Wise System**, evoluí a plataforma **SIGO** direto no código: debug em produção,<br/>
+**scripts Python** para automação de testes e triagem, **documentação de APIs REST** e dashboards em tempo real.<br/>
+A base veio da **ETEC**, programando jogos digitais — onde a lógica virou paixão.
+
+<sub>† &nbsp; backend &nbsp; † &nbsp; automação &nbsp; † &nbsp; arquitetura de sistemas &nbsp; † &nbsp; código limpo &nbsp; †</sub>
+
+</div>
+
+<br/>
+
+<img src="./assets/h-trajetoria.svg" width="100%" alt="Trajetória" />
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120"><b>out 2025</b><br/><sub>atual</sub></td>
+    <td><b>† Desenvolvedor de Soluções</b> &nbsp;·&nbsp; <code>Bradesco</code><br/>
+      <sub>Estágio · Barueri, SP · Híbrido — Patrimônio</sub><br/>
+      Manutenção e monitoramento de sistemas internos, integrações e automação de processos,<br/>
+      análise de dados para otimização de fluxos e eficiência operacional.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>set 2025</b><br/><sub>out 2025</sub></td>
+    <td><b>† Desenvolvedor Web</b> &nbsp;·&nbsp; <code>Wise System</code><br/>
+      <sub>C# · ASP.NET · Python · APIs REST</sub><br/>
+      Sustentação e evolução da plataforma SIGO: diagnóstico e correção de falhas no código-fonte,<br/>
+      logs estruturados, automação de testes e triagem em Python, docs de APIs e dashboards.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>mai 2025</b><br/><sub>set 2025</sub></td>
+    <td><b>† Suporte Técnico</b> &nbsp;·&nbsp; <code>Wise System</code><br/>
+      Suporte a clientes do SIGO (eSocial, GRO, PGR, PCMSO, LTCAT), instalação, configuração,<br/>
+      integrações e migração de sistemas.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2024</b><br/><sub>2027</sub></td>
+    <td><b>† Bacharelado em Ciência da Computação</b> &nbsp;·&nbsp; <code>Impacta Tecnologia</code></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2021</b><br/><sub>2023</sub></td>
+    <td><b>† Técnico em Programação de Jogos Digitais</b> &nbsp;·&nbsp; <code>ETEC — Centro Paula Souza</code></td>
+  </tr>
+</table>
 
 </div>
 
@@ -42,7 +85,7 @@ e em projetos próprios de **APIs, microsserviços e plataformas web**.
 <div align="center">
 
 <sub><code>† LINGUAGENS †</code></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=java,cs,python,go,js,ts,html,css&perline=8&theme=dark" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=java,cs,python,go,php,js,ts,html,css&perline=9&theme=dark" alt="Linguagens" />
 
 <br/><br/>
 
@@ -131,11 +174,12 @@ e em projetos próprios de **APIs, microsserviços e plataformas web**.
 <div align="center">
 
 <table>
-  <tr><td>†</td><td><b>AWS Academy Graduate</b> — Cloud Foundations · Training Badge</td></tr>
-  <tr><td>†</td><td><b>Introdução à Cloud Computing</b> — AWS Training & Certification</td></tr>
-  <tr><td>†</td><td><b>Java</b> · <b>Python para Data Science</b> · <b>Git & GitHub Essentials</b> — Alura</td></tr>
-  <tr><td>†</td><td><b>Lógica de Programação</b> · <b>Excel Avançado com Macros</b> — Fundação Bradesco</td></tr>
-  <tr><td>†</td><td><b>Power BI</b> · <b>Pacote Office Avançado</b> · <b>Gestão de Projetos</b> · <b>Comunicação e Oratória</b></td></tr>
+  <tr><td>†</td><td><b>AWS Cloud Foundations</b></td><td>Amazon Web Services</td><td><sub>mai 2026</sub></td></tr>
+  <tr><td>†</td><td><b>Git & GitHub Essentials</b></td><td>GitHub</td><td><sub>jul 2025</sub></td></tr>
+  <tr><td>†</td><td><b>Python para Data Science</b></td><td>Alura</td><td><sub>mar 2025</sub></td></tr>
+  <tr><td>†</td><td><b>Java</b></td><td>Alura</td><td><sub>fev 2025</sub></td></tr>
+  <tr><td>†</td><td><b>Lógica de Programação</b></td><td>Fundação Bradesco</td><td><sub>jan 2025</sub></td></tr>
+  <tr><td>†</td><td><b>Power BI</b></td><td>Senai São Paulo</td><td><sub>out 2024</sub></td></tr>
 </table>
 
 </div>

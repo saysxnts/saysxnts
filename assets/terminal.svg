@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="594" viewBox="0 0 1200 594" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="621" viewBox="0 0 1200 621" fill="none">
   <defs>
     <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#ffffff"/>
@@ -49,8 +49,8 @@
     .caret { animation: blink 1s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
   </style>
-  <rect width="1200" height="594" rx="14" fill="#000"/>
-  <rect width="1200" height="594" rx="14" filter="url(#noise)" opacity=".05"/>
+  <rect width="1200" height="621" rx="14" fill="#000"/>
+  <rect width="1200" height="621" rx="14" filter="url(#noise)" opacity=".05"/>
   <rect width="1200" height="44" rx="14" fill="#fff" fill-opacity=".035"/>
   <path d="M0 44.5H1200" stroke="#fff" stroke-opacity=".1"/>
   <circle cx="26" cy="22" r="6" fill="#d4d4d4"/><circle cx="46" cy="22" r="6" fill="#6b6b6b"/><circle cx="66" cy="22" r="6" fill="#2e2e2e"/>
@@ -73,27 +73,28 @@
     <rect x="0" width="14" height="14" rx="2" fill="#ffffff"/><rect x="18" width="14" height="14" rx="2" fill="#d4d4d4"/><rect x="36" width="14" height="14" rx="2" fill="#a8a8a8"/><rect x="54" width="14" height="14" rx="2" fill="#7d7d7d"/><rect x="72" width="14" height="14" rx="2" fill="#525252"/><rect x="90" width="14" height="14" rx="2" fill="#2e2e2e"/><rect x="108" width="14" height="14" rx="2" fill="#141414"/>
     <rect x="0" width="122" height="14" rx="2" stroke="#fff" stroke-opacity=".15"/>
   </g>
-  <path d="M340 76V554" stroke="#fff" stroke-opacity=".08"/>
+  <path d="M340 76V581" stroke="#fff" stroke-opacity=".08"/>
 
   <g font-family="'JetBrains Mono','SF Mono',Consolas,Menlo,monospace" font-size="17" xml:space="preserve">
     <text x="380" y="86" class="ln" style="animation-delay:.1s"><tspan class="k">saysxnts</tspan><tspan fill="#555">@</tspan><tspan fill="#d4d4d4" font-weight="700">github</tspan></text>
     <text x="380" y="106" class="ln dim" style="animation-delay:.2s">────────────────────────────────────────────────────────────────</text>
-        <text x="380" y="132" class="ln" style="animation-delay:0.30s"><tspan class="k">OS</tspan><tspan class="dim"> ···················· </tspan><tspan class="v">Windows 11, Linux</tspan></text>
+        <text x="380" y="132" class="ln" style="animation-delay:0.30s"><tspan class="k">Role</tspan><tspan class="dim"> ·················· </tspan><tspan class="v">Software Engineer @ Bradesco</tspan></text>
     <text x="380" y="159" class="ln" style="animation-delay:0.39s"><tspan class="k">Host</tspan><tspan class="dim"> ·················· </tspan><tspan class="v">São Paulo, BR</tspan></text>
-    <text x="380" y="186" class="ln" style="animation-delay:0.48s"><tspan class="k">Role</tspan><tspan class="dim"> ·················· </tspan><tspan class="v">Backend Engineer, Full Stack</tspan></text>
-    <text x="380" y="213" class="ln" style="animation-delay:0.57s"><tspan class="k">Edu</tspan><tspan class="dim"> ··················· </tspan><tspan class="v">Ciência da Computação</tspan></text>
-    <text x="380" y="240" class="ln" style="animation-delay:0.66s"><tspan class="k">Exp</tspan><tspan class="dim"> ··················· </tspan><tspan class="v">Suporte Técnico — Wise System</tspan></text>
-    <text x="380" y="267" class="ln" style="animation-delay:0.75s"><tspan class="k">Langs.Core</tspan><tspan class="dim"> ············ </tspan><tspan class="v">Java, C#, Python, Go</tspan></text>
-    <text x="380" y="294" class="ln" style="animation-delay:0.84s"><tspan class="k">Langs.Web</tspan><tspan class="dim"> ············· </tspan><tspan class="v">Node.js, TypeScript, React</tspan></text>
-    <text x="380" y="321" class="ln" style="animation-delay:0.93s"><tspan class="k">Frameworks</tspan><tspan class="dim"> ············ </tspan><tspan class="v">Spring, .NET, FastAPI, Flask</tspan></text>
-    <text x="380" y="348" class="ln" style="animation-delay:1.02s"><tspan class="k">Data</tspan><tspan class="dim"> ·················· </tspan><tspan class="v">PostgreSQL, MySQL, MongoDB</tspan></text>
-    <text x="380" y="375" class="ln" style="animation-delay:1.11s"><tspan class="k">Infra</tspan><tspan class="dim"> ················· </tspan><tspan class="v">Docker, AWS, Linux, Git</tspan></text>
-    <text x="380" y="402" class="ln" style="animation-delay:1.20s"><tspan class="k">Cert</tspan><tspan class="dim"> ·················· </tspan><tspan class="v">AWS Academy Cloud Foundations</tspan></text>
-    <text x="380" y="439" class="ln" style="animation-delay:1.29s"><tspan class="dim">── </tspan><tspan class="k">✝ Contato</tspan><tspan class="dim"> ────────────────────────────────────────────────────────</tspan></text>
-    <text x="380" y="475" class="ln" style="animation-delay:1.38s"><tspan class="k">Email</tspan><tspan class="dim"> ················· </tspan><tspan class="v">guilherme_oliveirass@outlook.com</tspan></text>
-    <text x="380" y="502" class="ln" style="animation-delay:1.47s"><tspan class="k">LinkedIn</tspan><tspan class="dim"> ·············· </tspan><tspan class="v">in/guilhermedeoliveirasantos</tspan></text>
-    <text x="380" y="529" class="ln" style="animation-delay:1.56s"><tspan class="k">GitHub</tspan><tspan class="dim"> ················ </tspan><tspan class="v">saysxnts</tspan></text>
-    <text x="380" y="560" class="ln" style="animation-delay:1.85s"><tspan fill="#fff">✝</tspan> <tspan class="caret" fill="#e5e5e5">█</tspan></text>
+    <text x="380" y="186" class="ln" style="animation-delay:0.48s"><tspan class="k">Work</tspan><tspan class="dim"> ·················· </tspan><tspan class="v">Bradesco — Desenvolvedor de Soluções</tspan></text>
+    <text x="380" y="213" class="ln" style="animation-delay:0.57s"><tspan class="k">Prev</tspan><tspan class="dim"> ·················· </tspan><tspan class="v">Wise System — Dev Web &amp; Suporte</tspan></text>
+    <text x="380" y="240" class="ln" style="animation-delay:0.66s"><tspan class="k">Edu</tspan><tspan class="dim"> ··················· </tspan><tspan class="v">Ciência da Computação · Impacta</tspan></text>
+    <text x="380" y="267" class="ln" style="animation-delay:0.75s"><tspan class="k">Edu.Tech</tspan><tspan class="dim"> ·············· </tspan><tspan class="v">Programação de Jogos · ETEC</tspan></text>
+    <text x="380" y="294" class="ln" style="animation-delay:0.84s"><tspan class="k">Langs.Core</tspan><tspan class="dim"> ············ </tspan><tspan class="v">Java, C#, Python, Go, PHP</tspan></text>
+    <text x="380" y="321" class="ln" style="animation-delay:0.93s"><tspan class="k">Langs.Web</tspan><tspan class="dim"> ············· </tspan><tspan class="v">Node.js, TypeScript, React</tspan></text>
+    <text x="380" y="348" class="ln" style="animation-delay:1.02s"><tspan class="k">Frameworks</tspan><tspan class="dim"> ············ </tspan><tspan class="v">Spring Boot, ASP.NET, FastAPI</tspan></text>
+    <text x="380" y="375" class="ln" style="animation-delay:1.11s"><tspan class="k">Data</tspan><tspan class="dim"> ·················· </tspan><tspan class="v">SQL, PostgreSQL, MySQL, Power BI</tspan></text>
+    <text x="380" y="402" class="ln" style="animation-delay:1.20s"><tspan class="k">Infra</tspan><tspan class="dim"> ················· </tspan><tspan class="v">Docker, AWS, Linux, Git</tspan></text>
+    <text x="380" y="429" class="ln" style="animation-delay:1.29s"><tspan class="k">Cert</tspan><tspan class="dim"> ·················· </tspan><tspan class="v">AWS Cloud Foundations</tspan></text>
+    <text x="380" y="466" class="ln" style="animation-delay:1.38s"><tspan class="dim">── </tspan><tspan class="k">✝ Contato</tspan><tspan class="dim"> ────────────────────────────────────────────────────────</tspan></text>
+    <text x="380" y="502" class="ln" style="animation-delay:1.47s"><tspan class="k">Email</tspan><tspan class="dim"> ················· </tspan><tspan class="v">guilherme_oliveirass@outlook.com</tspan></text>
+    <text x="380" y="529" class="ln" style="animation-delay:1.56s"><tspan class="k">LinkedIn</tspan><tspan class="dim"> ·············· </tspan><tspan class="v">in/guilhermedeoliveirasantos</tspan></text>
+    <text x="380" y="556" class="ln" style="animation-delay:1.65s"><tspan class="k">GitHub</tspan><tspan class="dim"> ················ </tspan><tspan class="v">saysxnts</tspan></text>
+    <text x="380" y="587" class="ln" style="animation-delay:1.94s"><tspan fill="#fff">✝</tspan> <tspan class="caret" fill="#e5e5e5">█</tspan></text>
   </g>
-  <rect x=".5" y=".5" width="1199" height="593" rx="13.5" stroke="#fff" stroke-opacity=".14"/>
+  <rect x=".5" y=".5" width="1199" height="620" rx="13.5" stroke="#fff" stroke-opacity=".14"/>
 </svg>
